@@ -1,3 +1,4 @@
+## Project Description
 This project focuses on the Software Testing & Quality Assurance (STQA) of the Breakout E-Commerce Website, a Pakistan-based online fashion retail web application. The objective of this project is to ensure the manual testing, automation testing, API testing, and defect tracking to ensure the website’s functionality, reliability, and performance
 The Breakout website allows users to browse products, view product details, add items to the cart, and proceed to checkout. The application follows a **client-server architecture** and uses **backend APIs, cookies, and sessions** to manage user state.
 This project was conducted as part of the **Software Testing & Quality Assurance course** to gain hands-on experience with real-world QA practices and tools.
